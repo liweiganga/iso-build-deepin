@@ -4,7 +4,9 @@ bash-completion
 curl
 sudo
 vim
+neovim
 bash
+zsh
 ca-certificates
 deepin-keyring
 init
